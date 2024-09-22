@@ -9,4 +9,4 @@ The airline is interested in predicting whether a future customer would be satis
 Exploring the data and completing the cleaning process  
 Building a decision tree model  
 Tuning hyperparameters using GridSearchCV  
-Evaluating a decision tree model using a confusion matrix and various other plots  
+Evaluating a Decision Tree model using a confusion matrix and various other plots  
