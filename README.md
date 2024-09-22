@@ -1,4 +1,4 @@
-# Decision Tree Classification with Python · Airline Survey
+# Decision Tree with Python · Airline Survey
 
 **Context**
 
@@ -7,6 +7,6 @@ The airline is interested in predicting whether a future customer would be satis
 **Skills**
 
 Exploring the data and completing the cleaning process  
-Building a decision tree model  
+Building a Decision Tree classification model  
 Tuning hyperparameters using GridSearchCV  
 Evaluating a Decision Tree model using a confusion matrix and various other plots  
