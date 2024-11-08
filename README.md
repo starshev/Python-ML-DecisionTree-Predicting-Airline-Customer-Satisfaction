@@ -1,13 +1,17 @@
-# Decision Tree with Python · Airline Survey
+# Decision Tree with Python · Predicting Airline Customer Satisfaction
 
-**Context**
+### Project Overview
 
-The airline is interested in predicting whether a future customer would be satisfied with their services given previous customer feedback about their flight experience. The airline would like me, as a consultant, to construct and evaluate a model that can accomplish this goal. Specifically, they are interested in knowing which features are most important to customer satisfaction.
+Built a Decision Tree classification model to predict customer satisfaction based on previous flight feedback. Focused on identifying key features affecting satisfaction, and performed data cleaning, feature engineering, hyperparameter tuning with GridSearchCV, and model evaluation using a confusion matrix and other plots.
 
-**Skills**
+### Key Skills
 
-EDA, Data Cleaning, Data Wrangling  
-Feature engineering for ML  
-Building a Decision Tree classification model  
-Tuning hyperparameters using GridSearchCV  
-Evaluating a Decision Tree model using a confusion matrix and various other plots  
+EDA, data cleaning, and data wrangling, feature engineering for ML, building a Decision Tree classification model, tuning hyperparameters with GridSearchCV, evaluating a Decision Tree model using a confusion matrix and various plots.
+
+### Описание проекта
+
+Построил модель классификации с использованием дерева решений для предсказания удовлетворённости клиентов на основе предыдущих отзывов о полете. Проект был направлен на выявление ключевых факторов, влияющих на удовлетворённость, включал очистку данных, инженеринг признаков, настройку гиперпараметров с помощью GridSearchCV и оценку модели с использованием матрицы ошибок и других визуализаций.
+
+### Ключевые навыки
+
+Исследовательский анализ данных, очистка и обработка данных, инженеринг признаков для машинного обучения, построение модели классификации дерева решений, настройка гиперпараметров с использованием GridSearchCV, оценка модели дерева решений с использованием матрицы ошибок и различных визуализаций.
