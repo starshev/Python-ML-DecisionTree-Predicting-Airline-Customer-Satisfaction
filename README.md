@@ -6,7 +6,7 @@ Build a Decision Tree classification model to predict customer satisfaction usin
 ### Skills  
 Exploratory data analysis, data cleaning and wrangling, feature engineering, Decision Tree modeling, hyperparameter tuning with GridSearchCV, model evaluation with confusion matrix and metrics.
 
-# Машинное обучение с использованием Python для предсказания удовлетворённости клиентов авиакомпании
+# Машинное обучение с использованием Python для предсказания удовлетворённости клиентов авиакомпании #1
 
 ### Задача  
 Построить модель классификации на основе алгоритма дерева решений для прогнозирования удовлетворённости клиентов по отзывам о прошлых перелётах. Определить ключевые факторы, влияющие на удовлетворённость, провести настройку параметров и оценку модели.
