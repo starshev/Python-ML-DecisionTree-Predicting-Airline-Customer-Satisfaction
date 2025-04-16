@@ -1,4 +1,4 @@
-# Machine Learning with Python for Predicting Airline Customer Satisfaction #1
+# Machine Learning with Python for Predicting Airline Customer Satisfaction. Part 1 (Decision Tree)
 
 ### Task  
 Build a Decision Tree classification model to predict customer satisfaction using past flight feedback data. Identify key satisfaction drivers, tune model parameters, and evaluate model performance.
@@ -6,7 +6,7 @@ Build a Decision Tree classification model to predict customer satisfaction usin
 ### Skills  
 Exploratory data analysis, data cleaning and wrangling, feature engineering, Decision Tree modeling, hyperparameter tuning with GridSearchCV, model evaluation with confusion matrix and metrics.
 
-# Машинное обучение с использованием Python для предсказания удовлетворённости клиентов авиакомпании #1
+# Машинное обучение с использованием Python для предсказания удовлетворённости клиентов авиакомпании. Часть 1 (Дерево решений)
 
 ### Задача  
 Построить модель классификации на основе алгоритма дерева решений для прогнозирования удовлетворённости клиентов по отзывам о прошлых перелётах. Определить ключевые факторы, влияющие на удовлетворённость, провести настройку параметров и оценку модели.
